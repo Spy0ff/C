@@ -10,6 +10,6 @@ int main(){
 	if(n1>n2){
 	printf("O numero %d e maior",n1);
 	}else{
-		printf("O numero %d e maior",n2);
-	}
-}
+	printf("O numero %d e maior",n2);
+		 }
+	 }
